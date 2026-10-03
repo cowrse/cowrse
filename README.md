@@ -1,8 +1,8 @@
 ## Hi, I'm Anthony (cowrse)
 
-Software engineer and Computer Science student. I build combat and physics systems on Roblox in LuaU, and I've shipped Roblox experiences since 2017.
+Software engineer and Computer Science student. I build combat and physics systems on Roblox in Luau, and I've shipped Roblox experiences since 2017.
 
-**Portfolio and blog:** [anthonysaade.dev](https://www.anthonysaade.dev/)
+**Portfolio and blog:** [anthonysaade.dev](https://www.anthonysaade.dev/) · **Resume:** [web](https://www.anthonysaade.dev/resume/) or [PDF](https://www.anthonysaade.dev/resume.pdf)
 
 ### Open source
 
@@ -16,7 +16,7 @@ Software engineer and Computer Science student. I build combat and physics syste
 
 ### Writing
 
-- [Parallel LuaU Character Sync](https://www.anthonysaade.dev/blog/parallel-luau-character-sync/): moving joint math off the main thread cut sync cost by 43% in the Script Profiler.
+- [Parallel Luau Character Sync](https://www.anthonysaade.dev/blog/parallel-luau-character-sync/): moving joint math off the main thread cut sync cost by 43% in the Script Profiler.
 - [More on the blog](https://www.anthonysaade.dev/blog/)
 
-**Languages:** LuaU, TypeScript
+**Languages:** Luau, TypeScript
