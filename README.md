@@ -2,7 +2,7 @@
 
 Software engineer and Computer Science student. I build combat and physics systems on Roblox in Luau, and I've shipped Roblox experiences since 2017.
 
-**Portfolio and blog:** [anthonysaade.dev](https://www.anthonysaade.dev/) · **Resume:** [web](https://www.anthonysaade.dev/resume/) or [PDF](https://www.anthonysaade.dev/resume.pdf)
+**Portfolio and blog:** [anthonysaade.dev](https://www.anthonysaade.dev/) · **Resume:** on [LinkedIn](https://www.linkedin.com/in/anthony-saade-24219943a)
 
 ### Open source
 
