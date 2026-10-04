@@ -11,7 +11,7 @@ Software engineer and Computer Science student. I build combat and physics syste
 
 ### Games
 
-- [Bard's Fighting Arena](https://www.roblox.com/games/77317386758096): a battlegrounds fighter with 21.6K+ visits.
+- [Bard's Fighting Arena](https://www.roblox.com/games/77317386758096): a battlegrounds fighter with 21.7K+ visits.
 - [Bard's Fighting Physics 2](https://www.roblox.com/games/13236238527)
 
 ### Writing
